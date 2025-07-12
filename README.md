@@ -19,3 +19,5 @@
 깃허브란 무엇인가?
 
 w3 school이란 무엇인가?
+
+[이미지](orinnano_image1.jpg)
