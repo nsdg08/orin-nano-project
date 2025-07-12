@@ -19,7 +19,7 @@ Results
 
 [What is GitHub?](What_is_GitHub.md)
 
-[What is W3Schools?](https://github.com/nsdg08/orin-nano-project/blob/main/what-is-w3schools.md)
+[What is W3Schools?](What_is_W3Schools.md)
 
 [What is ZETA7?](https://github.com/nsdg08/orin-nano-project/new/main)
 
