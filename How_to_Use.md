@@ -1,78 +1,81 @@
-✅ 1. 개발자 키트 준비 및 연결
-먼저 Jetson Orin Nano Developer Kit을 사용하면 시작이 가장 쉽습니다.
+✅ 1. Prepare and Connect the Developer Kit
 
-📦 기본 구성품:
-Orin Nano 모듈 (보드 위에 이미 탑재)
+The easiest way to get started is by using the **Jetson Orin Nano Developer Kit**.
 
-캐리어 보드 (입출력 연결용)
+📦 Basic Components:
 
-방열판 + 팬
+- Orin Nano module (pre-installed on the board)  
+- Carrier board (for I/O connections)  
+- Heatsink + cooling fan  
+- microSD card or NVMe SSD (for OS installation)  
+- Power adapter (5V 4A or 20V USB-C PD)  
+- Keyboard, mouse, HDMI monitor  
 
-microSD 카드 or NVMe SSD (운영체제 설치용)
+🧷 Connection Steps:
 
-전원 어댑터 (5V 4A 또는 20V USB-C PD)
+1. Flash the OS image (JetPack) onto a microSD card or NVMe SSD  
+2. Insert the storage device into the board  
+3. Connect HDMI monitor, keyboard, and mouse  
+4. Connect power → Jetson will automatically boot  
+5. On first boot, set up the Ubuntu environment  
 
-키보드, 마우스, HDMI 모니터
+---
 
-🧷 연결 순서:
-microSD 또는 NVMe SSD에 OS 이미지 플래시 (JetPack)
+✅ 2. Install JetPack
 
-저장장치를 보드에 삽입
+**JetPack** is a bundle of the OS and NVIDIA’s AI libraries for Jetson boards.
 
-HDMI 모니터, 키보드, 마우스 연결
+📥 Installation Steps:
 
-전원 연결 → Jetson 자동 부팅
+1. Install [NVIDIA SDK Manager](https://developer.nvidia.com/nvidia-sdk-manager) on your PC  
+2. Boot the Jetson board into recovery mode  
+3. Connect the board to your PC via USB  
+4. In SDK Manager, select JetPack and flash the device (includes Ubuntu, CUDA, cuDNN, etc.)
 
-첫 부팅 시 Ubuntu 환경 설정 진행
+※ The developer kit usually comes with JetPack pre-installed, so you can boot right away with just a microSD card.
 
-✅ 2. JetPack 설치
-JetPack은 Jetson 보드용 운영체제(OS) + NVIDIA AI 라이브러리 모음입니다.
+---
 
-📥 설치 방법:
-PC에 NVIDIA SDK Manager 설치:
-https://developer.nvidia.com/nvidia-sdk-manager
+✅ 3. Set Up Development Environment
 
-Jetson 보드를 리커버리 모드로 부팅
+Jetson Orin Nano runs a typical Ubuntu Linux system, so most standard tools work as expected.
 
-USB로 PC에 연결
+📦 Recommended Tools:
 
-SDK Manager에서 JetPack 선택 후 플래싱 진행 (Ubuntu + CUDA, cuDNN 등 자동 설치)
+- Python 3 / pip  
+- OpenCV  
+- PyTorch or TensorFlow  
+- Jupyter Notebook (optional)  
+- VS Code (supports remote access)
 
-※ 개발자 키트에는 기본 JetPack OS가 설치되어 있어, microSD만 있으면 바로 부팅 가능
-
-✅ 3. 개발 환경 설정
-Jetson Orin Nano는 일반적인 Ubuntu 리눅스 환경이기 때문에 익숙한 도구 대부분을 그대로 사용할 수 있습니다.
-
-필수 개발 도구:
-Python 3 / pip
-
-OpenCV
-
-PyTorch 또는 TensorFlow
-
-Jupyter Notebook (선택)
-
-VS Code (원격 접속 가능)
-<pre><br>bush
+```
+bash
 
 sudo apt update
 sudo apt install python3-pip python3-opencv
-pip3 install torch torchvision<br></pre>
+pip3 install torch torchvision
+```
 
-✅ 4. AI/비전 프로그램 실행
-Jetson은 **GPU 및 AI 엔진(Tensor Core)**을 내장하고 있어 다음과 같은 작업을 고속으로 수행합니다.
+---
 
-예시 1: 실시간 객체 인식 (YOLO)
-<br><pre>bash
+✅ 4. Running AI / Vision Programs  
+Jetson includes a **GPU and AI engine (Tensor Cores)** that can accelerate tasks like the following:
+
+📌 Example 1: Real-time Object Detection (YOLO)
+
+```
+bash
 
 git clone https://github.com/AlexeyAB/darknet.git
 cd darknet
 make
-./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights<br></pre>
+./darknet detector demo cfg/coco.data cfg/yolov4.cfg yolov4.weights
+```
 
-예시 2: OpenCV 카메라 입력
+📌 Example 2: Camera Input Using OpenCV
 
-<br><pre>python
+```
+python
 
 import cv2
 
@@ -80,18 +83,24 @@ cap = cv2.VideoCapture(0)
 while True:
     ret, frame = cap.read()
     cv2.imshow("Camera", frame)
-    if cv2.waitKey(1) == 27:
+    if cv2.waitKey(1) == 27:  # Press 'Esc' to exit
         break
+
 cap.release()
-cv2.destroyAllWindows()<br></pre>
+cv2.destroyAllWindows()
+```
 
-✅ 5. 응용 분야에 맞게 확장
-Jetson Orin Nano는 다음과 같은 장치를 연결해서 프로젝트에 활용할 수 있습니다:
+---
 
-장치	설명
-CSI 카메라	MIPI 인터페이스 고속 영상
-USB 카메라	Plug & Play 간단 연결
-LiDAR	로봇 및 자율주행용 거리 센서
-IMU	드론, 로봇 방향 및 속도 측정
-GPIO	LED, 모터, 센서 제어
-ROS	로봇 운영체제 연동 가능
+✅ 5. Expanding for Application Use
+
+Jetson Orin Nano can be connected to various devices and utilized for different types of projects:
+
+| Device       | Description                                          |
+|--------------|------------------------------------------------------|
+| **CSI Camera** | High-speed video input via MIPI interface            |
+| **USB Camera** | Simple plug-and-play connection                      |
+| **LiDAR**      | Distance sensor for robotics and autonomous driving |
+| **IMU**        | Measures orientation and velocity (used in drones, robots) |
+| **GPIO**       | Controls for LEDs, motors, sensors                  |
+| **ROS**        | Compatible with Robot Operating System              |
