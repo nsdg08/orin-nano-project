@@ -16,7 +16,7 @@
 
 [마크다운이란 무엇인가?](https://github.com/nsdg08/orin-nano-project/blob/main/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
 
-[깃허브란 무엇인가?]([url](https://github.com/nsdg08/orin-nano-project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F))
+[깃허브란 무엇인가?](https://github.com/nsdg08/orin-nano-project/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F)
 
 w3 school이란 무엇인가?
 
