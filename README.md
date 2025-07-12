@@ -21,4 +21,6 @@ Results
 
 [What is W3Schools?](https://github.com/nsdg08/orin-nano-project/blob/main/what-is-w3schools.md)
 
-https://github.com/nsdg08/orin-nano-project/new/main
+[What is ZETA7?](https://github.com/nsdg08/orin-nano-project/new/main)
+
+젯슨맘은 누구인가?
