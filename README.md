@@ -2,7 +2,7 @@
 
 ### Project Progress
 
-##### -[What is Jetson Orin Nano?](What_is_Jetson_Orin_Nano.md)
+#####   - [What is Jetson Orin Nano?](What_is_Jetson_Orin_Nano.md)
 
 ##### [Real Use Cases](Real_Use_Cases.md)
 
