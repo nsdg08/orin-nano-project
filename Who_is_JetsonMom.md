@@ -1,35 +1,32 @@
-🧑‍🏫 장성숙 소개
-장성숙은 ‘젯슨맘(Jetson Mom)’이라는 애칭으로 알려진 Jetson 보드 기반 AI 실무 교육 전문가입니다.
-특히 NVIDIA Jetson Nano 등 엣지 AI 플랫폼을 활용한 교육에 집중하고 있으며, 학생과 실무자를 대상으로 하는 강의 및 멘토링 활동을 활발히 하고 있습니다.
+🧑‍🏫 Introduction to Jang Sung-sook
 
-🎓 활동 및 성과
-한라대학교 미래모빌리티공학과 신입생 전체를 대상으로
-2주간 Jetson Nano 기반 인공지능 자격증 과정을 운영하여,
-전원 자격증 취득이라는 성과를 이끌어냈습니다.
+**Jang Sung-sook**, affectionately known as **"Jetson Mom"**, is a professional educator specializing in hands-on AI training using NVIDIA’s Jetson platform.  
+She is particularly focused on **Edge AI education** using devices such as the **Jetson Nano**, actively mentoring both students and professionals.
 
-교육은 딥러닝, 머신러닝 기초 및 실습 중심의 내용으로 구성되었으며,
-학생들이 중급·고급 과정까지 도전할 수 있는 기반을 마련해주었습니다.
+---
 
-실제 산업 현장에 가까운 실무 중심의 학습 환경을 조성함으로써,
-졸업 후 AI 및 로보틱스 분야 취업 경쟁력 강화에도 기여하고 있습니다.
+🎓 Activities & Achievements
 
-🔍 ‘젯슨맘’이라는 별명의 의미
-‘젯슨맘’이라는 별칭은
-Jetson 보드 환경에서 학생들에게 애정 어린 지도를 해주는
-엄마 같은 세심한 교육 태도에서 비롯된 이름입니다.
-학생들이 기초부터 성장할 수 있도록 차근차근 이끄는 스타일로
-많은 신뢰를 얻고 있습니다.
+- Operated a **2-week AI certification program** based on Jetson Nano for all freshmen in the **Department of Future Mobility Engineering at Halla University**.
+- Achieved a **100% certification pass rate** through practical, beginner-friendly instruction.
+- The curriculum covered foundational topics in **deep learning** and **machine learning**, enabling students to confidently progress to intermediate and advanced levels.
+- Her training emphasizes a **real-world, industry-aligned learning environment**, helping students become more competitive in **AI and robotics job markets** after graduation.
 
-✅ 핵심 요약
-항목	내용
-이름	장성숙 (‘젯슨맘’)
-주요 역할	NVIDIA Jetson 플랫폼 교육 전문가
-강의 분야	Edge AI, 딥러닝, 머신러닝 실무
-대표 활동	대학생 AI 자격증 교육, 실무 멘토링
-특징	따뜻하고 실용적인 교육 방식
+---
 
-(학생들을 가르치는 모습)
-![](https://github.com/nsdg08/orin-nano-project/raw/main/Jangseongsook1.jpg)
+🔍 What Does "Jetson Mom" Mean?
 
-(한라대학교 학생들)
-![](https://github.com/nsdg08/orin-nano-project/raw/main/Jangseongsook2.jpg)
+The nickname **"Jetson Mom"** comes from her warm, supportive teaching style that resembles a nurturing mother guiding students through the basics of Jetson development.  
+Her patient and structured approach has earned strong trust from learners, helping them grow step by step.
+
+---
+
+✅ Summary
+
+| Field              | Details                                       |
+|-------------------|-----------------------------------------------|
+| **Name**           | Jang Sung-sook ("Jetson Mom")                 |
+| **Role**           | NVIDIA Jetson Platform Educator               |
+| **Specialties**    | Edge AI, Deep Learning, Machine Learning      |
+| **Key Activities** | University AI Certification Courses, Mentoring |
+| **Style**          | Warm, practical, hands-on education           |
