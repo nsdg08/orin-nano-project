@@ -23,4 +23,4 @@ Results
 
 [What is ZETA7?](Who_is_ZETA7.md)
 
-젯슨맘은 누구인가?
+[Who is JetsonMom]
