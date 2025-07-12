@@ -27,7 +27,7 @@ Node.js, React, JSON, XML 등 웹 백엔드/프론트 기술
 
 <br><pre>html
 
-"<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <body>
 
@@ -35,8 +35,9 @@ Node.js, React, JSON, XML 등 웹 백엔드/프론트 기술
 <p>This is my first page.</p>
 
 </body>
-</html>""<br></pre>
-➡ Try it Yourself 버튼을 누르면 브라우저에서 코드가 실행돼!
+</html><br>
+```
+</pre>
 
 🛠 W3Schools은 어떤 사람에게 좋을까?
 웹 개발을 처음 배우는 사람
