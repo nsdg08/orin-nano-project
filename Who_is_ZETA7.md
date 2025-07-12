@@ -1,13 +1,42 @@
-블로그 zeta0807은 Jetson, Raspberry Pi, Arduino, IoT, 인공지능 등 다양한 하드웨어와 오픈소스 기술을 중심으로 한 실험과 프로젝트들을 공유하는 **메이커(Maker)**의 공간입니다. 운영자는 "질문은 공개 댓글로만 받습니다"라고 소개할 만큼, 정보의 공개와 공유를 소중히 여기는 개발자입니다.
-블로그의 주요 특징
-Jetson & AI 실습 경험 공유
-Jetson Orin Nano, Jetpack, Jupyter, Firefox 설치 문제 등 실제 발생하는 이슈와 해결 과정을 상세히 기록하고 있습니다. 하드웨어를 다루는 초보자뿐 아니라 실무자에게도 유용한 팁이 많습니다.
+🛠 zeta0807 Blog Overview
 
-로봇 프로젝트 중심의 리얼 타임 학습기
-HuggingFace의 LeRobot 프로젝트를 기반으로 직접 모터 제어, ROS2 통합, 포팅 및 모델 학습을 수행한 과정이 일기처럼 올라옵니다. 구글 Colab, WandB, ffmpeg, huggingface CLI 등 최신 도구와 라이브러리 사용법도 잘 정리되어 있습니다.
+**zeta0807** is a maker’s blog that shares hands-on experiments and projects focused on **hardware and open-source technologies**, including Jetson, Raspberry Pi, Arduino, IoT, and Artificial Intelligence (AI).  
+The blog owner emphasizes open information sharing and clearly states:  
+> 💬 "Questions are only accepted through public comments."
 
-실용적인 IT 팁
-듀얼부팅 제거, tftpd32 사용법, 네트워크 IP 확인 방법, Ubuntu 문제 해결법 등 일상에서 부딪히는 실전 팁도 가득합니다. 단순한 이론이 아니라 “오늘 Jetson에 문제가 생겨서 직접 해결했다”는 식의 살아있는 지식들이 주를 이룹니다.
+---
 
-3D 프린터와 DIY 로봇 경험
-STL 파일을 G-code로 바꾸는 과정, DOFBOT 사용 후기 등도 포함되어 있어, 하드웨어 제작에 관심 있는 독자에게 큰 도움이 됩니다.
+✅ Key Features of the Blog
+
+🔹 Jetson & AI Hands-On Experience
+
+- Detailed documentation of real-world issues and solutions for setting up **Jetson Orin Nano**, **JetPack**, **Jupyter**, **Firefox**, and more.
+- Valuable tips not only for beginners handling hardware but also for professionals working in the field.
+
+---
+
+🤖 Real-Time Robot Project Logs
+
+- Based on the **HuggingFace LeRobot** project, the blog logs the step-by-step process of motor control, **ROS2 integration**, **porting**, and **model training**.
+- Guides on modern tools and libraries like **Google Colab**, **Weights & Biases (WandB)**, **ffmpeg**, and **HuggingFace CLI** are well-organized and practical.
+
+---
+
+💡 Practical IT Tips
+
+- Real-world solutions for common problems like:
+  - Removing dual-boot configurations  
+  - Using **tftpd32**  
+  - Checking network IP addresses  
+  - Troubleshooting Ubuntu issues
+- The content focuses on **experience-based problem solving**, like:  
+  > 🛠 “Jetson had an issue today, and I fixed it myself.”
+
+---
+
+🧰 3D Printing & DIY Robot Projects
+
+- Includes guides on converting **STL files to G-code** and reviews of using robotic kits like **DOFBOT**.
+- Great resources for readers interested in building and customizing hardware.
+
+---
