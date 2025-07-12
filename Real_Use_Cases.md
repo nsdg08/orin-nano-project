@@ -1,9 +1,11 @@
-주로 작고 전력 효율이 높은 AI 장치를 만들고자 할 때 사용되며, 드론, 로봇, 스마트 카메라, 자율주행차의 일부 등 다양한 임베디드 시스템에서 쓰입니다.
+Jetson Orin Nano is mainly used when creating small, power-efficient AI devices and is utilized in various embedded systems such as drones, robots, smart cameras, and parts of autonomous vehicles.
 
-💡 Jetson Orin Nano의 용도 예시
-분야	예시
-로봇공학	SLAM, 객체 인식, 경로 계획 등
-컴퓨터 비전	CCTV 실시간 분석, 얼굴 인식
-자율 시스템	드론 자율 비행, 무인 차량 제어
-산업 자동화	공장 설비의 이상 탐지, 품질 검사
-스마트 시티/IoT	실시간 교통 분석, 쓰레기통 상태 감지
+💡 Example Use Cases of Jetson Orin Nano
+
+| Field             | Examples                                  |
+|-------------------|-------------------------------------------|
+| Robotics          | SLAM, object recognition, path planning   |
+| Computer Vision   | Real-time CCTV analysis, face recognition |
+| Autonomous Systems| Drone autonomous flight, unmanned vehicle control |
+| Industrial Automation | Fault detection in factory equipment, quality inspection |
+| Smart City / IoT  | Real-time traffic analysis, smart trash bin monitoring |
