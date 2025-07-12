@@ -8,7 +8,7 @@
 
 Usage Plan
 
-[Usage Log](사용기.md)
+[Usage Log](Usage_Log.md)
 
 Results
 
