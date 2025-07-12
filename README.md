@@ -4,7 +4,7 @@
 
 [Real Use Cases](Real_Use_Cases.md)
 
-[How to Use](https://github.com/nsdg08/orin-nano-project/blob/main/how-to-use.md)
+[How to Use](How_to_Use.md)
 
 Usage Plan
 
