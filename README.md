@@ -17,7 +17,7 @@ Results
 
 [What is Markdown?](What_is_Markdowm.md)
 
-[What is GitHub?](https://github.com/nsdg08/orin-nano-project/blob/main/what-is-github.md)
+[What is GitHub?](What_is_GitHub.md)
 
 [What is W3Schools?](https://github.com/nsdg08/orin-nano-project/blob/main/what-is-w3schools.md)
 
