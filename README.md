@@ -1,4 +1,4 @@
-# orin-nano-project
+# Orin-Nano-Project
 
 ### Project Progress
 
