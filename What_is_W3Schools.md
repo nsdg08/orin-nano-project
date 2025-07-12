@@ -42,3 +42,14 @@ After learning HTML, you can try writing and running code like this:
 </body>
 </html>
 ```
+
+---
+
+🛠️ Who Is W3Schools Suitable For?
+
+- Beginners who want to learn web development from scratch  
+- Developers who want a quick review of syntax  
+- New learners who want to practice coding hands-on  
+- Anyone who wants to build portfolio projects by themselves
+
+🔗 Official Website 👉 https://www.w3schools.com
