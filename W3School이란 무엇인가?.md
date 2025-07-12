@@ -25,7 +25,7 @@ Node.js, React, JSON, XML 등 웹 백엔드/프론트 기술
 🧪 예시: Try it Yourself
 예를 들어 HTML 문법을 배우고 나면 바로 이렇게 실습할 수 있어:
 
-html
+<br><pre>html
 
 <!DOCTYPE html>
 <html>
@@ -35,7 +35,7 @@ html
 <p>This is my first page.</p>
 
 </body>
-</html>
+</html><br></pre>
 ➡ Try it Yourself 버튼을 누르면 브라우저에서 코드가 실행돼!
 
 🛠 W3Schools은 어떤 사람에게 좋을까?
