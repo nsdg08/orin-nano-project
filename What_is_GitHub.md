@@ -1,48 +1,51 @@
-💡 GitHub란?
-**GitHub(깃허브)**는 Git이라는 버전 관리 시스템을 기반으로 한 소스 코드 저장소 및 협업 플랫폼이야.
-쉽게 말하면:
+💡 What is GitHub?
 
-✨ “코드를 안전하게 저장하고, 여러 사람이 함께 개발할 수 있게 도와주는 웹사이트이자 도구”
+**GitHub** is a source code hosting and collaboration platform based on the version control system **Git**.  
+Simply put:
 
-🔧 GitHub의 핵심 개념
-용어	설명
-Git	코드를 버전별로 저장하고 관리해주는 도구. (예: 되돌리기, 변경사항 추적 등)
-GitHub	Git을 클라우드에서 사용할 수 있게 만든 웹 플랫폼.
-Repository(저장소)	하나의 프로젝트 단위 폴더. 코드, 이미지, 문서 등을 저장.
-Commit(커밋)	변경 내용을 저장하는 단위. 언제 누가 뭘 바꿨는지 기록됨.
-Branch(브랜치)	기존 코드에 영향을 주지 않고 실험하거나 기능을 개발할 수 있는 분기.
-Pull Request (PR)	브랜치에서 작업한 내용을 메인 브랜치에 병합해 달라고 요청하는 기능.
-Merge(병합)	두 개의 브랜치를 하나로 합치는 작업.
-Fork	다른 사람의 저장소를 내 계정으로 복사해서 수정할 수 있게 만듦.
-Issue	버그, 할 일, 토론 등 프로젝트 관련 논의 공간.
+✨ “A website and tool that helps you store your code safely and collaborate with others.”
 
-🚀 GitHub의 주요 기능
-📦 코드 저장 & 관리 (Git 기반)
+---
 
-👨‍👩‍👧‍👦 협업 (여러 명이 동시에 개발 가능)
+🔧 Key GitHub Concepts
 
-🧠 버전 관리 (이전 코드로 쉽게 돌아가기 가능)
+| Term         | Description |
+|--------------|-------------|
+| **Git**      | A tool that stores and manages code by version (e.g., revert changes, track updates) |
+| **GitHub**   | A web platform that allows you to use Git in the cloud |
+| **Repository** | A project folder that contains code, images, documents, etc. |
+| **Commit**   | A saved change. Records who changed what and when |
+| **Branch**   | A way to experiment or develop features without affecting the main code |
+| **Pull Request (PR)** | A request to merge changes from one branch into the main branch |
+| **Merge**    | Combining two branches into one |
+| **Fork**     | Copying someone else's repository to your account to freely modify it |
+| **Issue**    | A space to discuss bugs, tasks, or ideas related to a project |
 
-🔄 오픈소스 참여 (남의 프로젝트에 기여 가능)
+---
 
-🔐 공개/비공개 저장소 선택 가능
+🚀 Key Features of GitHub
 
-🌐 웹에서 바로 코드 수정 및 리뷰 가능
+- 📦 Code storage & management (based on Git)  
+- 👨‍👩‍👧‍👦 Collaboration (multiple people can develop together)  
+- 🧠 Version control (easily revert to previous versions)  
+- 🔄 Open-source contribution (you can contribute to other people's projects)  
+- 🔐 Choose between public or private repositories  
+- 🌐 Edit and review code directly from the browser  
 
-🧑‍💻 예시 상황
-혼자서 프로젝트 버전을 관리하고 싶을 때
+---
 
-친구랑 같이 코딩 과제를 할 때
+🧑‍💻 Example Use Cases
 
-다른 사람이 만든 오픈소스 프로젝트에 기능을 추가하고 싶을 때
+- When managing versions of your own project  
+- When coding a school assignment with a friend  
+- When adding new features to someone else's open-source project  
+- When collaborating with a team at a company  
 
-회사에서 팀 단위로 협업할 때
+---
 
-✅ GitHub을 쓰면 좋은 이유
-실수해도 되돌리기 가능
+✅ Why Use GitHub?
 
-팀원과 효율적인 협업
-
-이력 관리로 누가 어떤 작업을 했는지 추적
-
-포트폴리오로 활용 가능 (취업 시 강점!)
+- Easy to revert if you make a mistake  
+- Efficient collaboration with teammates  
+- Track history of who did what and when  
+- Useful for building a portfolio (great for job hunting!)
