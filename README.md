@@ -5,4 +5,12 @@
 
 [사용 방법](https://github.com/nsdg08/orin-nano-project/blob/main/%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95.md)
 
-사용계획
+사용 계획
+
+사용 과정
+
+결과
+
+
+(+번외
+마크 다운이란 무억인가?)
