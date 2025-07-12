@@ -1,6 +1,6 @@
 # orin-nano-project
 
-[What is Jetson Orin Nano?](https://github.com/nsdg08/orin-nano-project/blob/main/what-is-jetson-orin-nano.md)
+[What is Jetson Orin Nano?](젯슨 오린 나노란 무엇인가?.md)
 
 [Real Use Cases](https://github.com/nsdg08/orin-nano-project/blob/main/real-use-cases.md)
 
