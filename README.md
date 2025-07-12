@@ -2,7 +2,7 @@
 
 [What is Jetson Orin Nano?](What_is_Jetson_Orin_Nano.md)
 
-[Real Use Cases](https://github.com/nsdg08/orin-nano-project/blob/main/real-use-cases.md)
+[Real Use Cases](Real_Use_Cases.md)
 
 [How to Use](https://github.com/nsdg08/orin-nano-project/blob/main/how-to-use.md)
 
