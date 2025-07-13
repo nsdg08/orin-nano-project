@@ -30,3 +30,7 @@ Her patient and structured approach has earned strong trust from learners, helpi
 | **Specialties**    | Edge AI, Deep Learning, Machine Learning      |
 | **Key Activities** | University AI Certification Courses, Mentoring |
 | **Style**          | Warm, practical, hands-on education           |
+
+---
+
+![image1](Jangseongsook1.jpg)
