@@ -33,5 +33,5 @@ Her patient and structured approach has earned strong trust from learners, helpi
 
 ---
 
-![image1](Jangseongsook1.jpg)
-![image2](Jangseongsook2.jpg)
+![사진1](Jangseongsook1.jpg)
+![사진2](Jangseongsook2.jpg)
