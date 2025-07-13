@@ -27,4 +27,4 @@
 
 ##### - [Who is JetsonMom?](Who_is_JetsonMom.md)
 
-##### - [What is yolo](what is yolo.md)
+##### - [What is YOLO?](What_is_YOLO.md)
