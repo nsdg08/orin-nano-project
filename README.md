@@ -1,6 +1,6 @@
 # Orin-Nano-Project
 
-### Project Progress
+### Project Procedure
 
 ##### - [What is Jetson Orin Nano?](What_is_Jetson_Orin_Nano.md)
 
@@ -10,7 +10,7 @@
 
 ##### - [Usage Plan](Usage_Plan.md)
 
-##### - [Usage Log](Usage_Log.md)
+##### - [Usage Procedure](Usage_Log.md)
 
 ##### - Results
 
