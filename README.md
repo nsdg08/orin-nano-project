@@ -8,7 +8,7 @@
 
 ##### - [How to Use](How_to_Use.md)
 
-##### - Usage Plan
+##### - [Usage Plan](Usage_Plan.md)
 
 ##### - [Usage Log](Usage_Log.md)
 
