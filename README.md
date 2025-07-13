@@ -10,7 +10,7 @@
 
 ##### - [Usage Plan](Usage_Plan.md)
 
-##### - [Usage Procedure](Usage_Log.md)
+##### - [Usage Procedure](Usage_Procedure.md)
 
 ##### - Results
 
