@@ -1,10 +1,10 @@
-# 🧠 YOLO (You Only Look Once)
+🧠 YOLO (You Only Look Once)
 
 YOLO is a deep learning-based **real-time object detection algorithm** widely used in fields like surveillance, autonomous driving, drones, and robotics. It's known for its **speed and efficiency**.
 
 ---
 
-## 📌 Key Concept of YOLO
+📌 Key Concept of YOLO
 
 YOLO divides an image into a grid and predicts:
 - **Object existence**
@@ -16,7 +16,7 @@ Unlike traditional object detection methods, YOLO **looks at the entire image on
 
 ---
 
-## 🧠 How YOLO Works (Simplified)
+🧠 How YOLO Works (Simplified)
 
 1. **Input image** is resized (e.g., 416x416).
 2. Passed through a **CNN (Convolutional Neural Network)**.
@@ -34,7 +34,7 @@ Example output for a detected object (e.g., person):
 
 ---
 
-## 🔄 YOLO Versions Overview
+🔄 YOLO Versions Overview
 
 | Version | Features |
 |---------|----------|
@@ -47,7 +47,7 @@ Example output for a detected object (e.g., person):
 
 ---
 
-## 🛠️ Advantages of YOLO
+🛠️ Advantages of YOLO
 
 - **Real-time processing**
 - **End-to-End learning** (input image → output detections)
@@ -55,7 +55,7 @@ Example output for a detected object (e.g., person):
 
 ---
 
-## 📷 Example Use Cases
+📷 Example Use Cases
 
 - Vehicle and license plate detection (traffic cameras)
 - Defect detection in manufacturing
@@ -64,7 +64,7 @@ Example output for a detected object (e.g., person):
 
 ---
 
-## 💻 Getting Started with YOLO (Ultralytics)
+💻 Getting Started with YOLO (Ultralytics)
 
 ```bash
 # Install YOLOv8
